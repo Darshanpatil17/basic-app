@@ -1,0 +1,13 @@
+.foodblok{
+    display: flex;
+    justify-content: space-between;
+}
+.foodblok img{
+    height: 180px;
+    width: 118px;
+}
+ p{
+    color:rgb(62, 62, 62);
+    font-size: 18px;
+    font-weight: 300;
+}
